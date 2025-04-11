@@ -1,4 +1,5 @@
 // iOT India -- SAKSHAM RAJPAL 
+//this code will work in arduino uno,nano ,esp boards just change the pin configuration, as per you...
 
 #include <SPI.h>
 #include <Wire.h>
